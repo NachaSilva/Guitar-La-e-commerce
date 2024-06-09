@@ -193,7 +193,7 @@
                                         <button 
                         type="button"
                         class="btn btn-dark w-100 "
-                    >Agregar al Carrito</button>
+                    >Agregar al Carrito uno</button>
                 </div>
             </div><!-- FIN GUITARRA -->
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
